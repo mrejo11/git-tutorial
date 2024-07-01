@@ -720,4 +720,4 @@ console.log(`i'am ${mehdi.firstname}${mehdi.lastname} and my job
       calcu : function (birthday){
         return 2024- birthday ;
       };
-console.log(mehdi.calcu())
+console.log(mehdi.calcu(01))
