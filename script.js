@@ -730,3 +730,10 @@ console.log(mehdi)
 
 
 HTMLOptGro
+HTMLBRElementfdb 
+globalThisgh
+getComputedStylehg
+hgf
+historygh
+WebGLBufferhgf
+hb 
